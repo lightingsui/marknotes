@@ -4,8 +4,8 @@
 
 第一件事就是去下载源码包，官方网站<https://redis.io/download> ，也可以去我的网盘下载
 
-> 链接：https://pan.baidu.com/s/1IsbBuvMDdDkVm736CjzLHg 
-> 提取码：0ahw
+> 链接：https://pan.baidu.com/s/1iMMIh4sJoowwu8B0OPeXlQ 
+> 提取码：i5yt
 
 **解压安装包**
 
